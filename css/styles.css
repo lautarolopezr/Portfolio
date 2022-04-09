@@ -185,6 +185,7 @@ body {
     text-decoration: none;
     padding: 15px;
     transition: all .2s;
+    color: #fff;
 }
 
 .list__container ul li a:hover {
